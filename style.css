@@ -403,28 +403,3 @@ form .btn2
     color: #ff004f;
     font-size: 20px;
 }
-
-/* ==================== CSS for small screens ==================== */
-/* @media only screen and (max-width: 600px)
-{
-    #header
-    {
-        /* background-image: url("images//images-removebg-preview.png");
-        background-size: cover;
-        background-position: center; *
-        
-    }
-    .header-text
-    {
-        margin-top: 100%;
-        font-size: 16px;
-    }
-    .header-text h1
-    {
-        font-size: 30px;
-    }
-    .header-col-2 img
-    {
-       display: none;
-    }
-} */
