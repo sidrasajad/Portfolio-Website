@@ -14,7 +14,17 @@ A personal portfolio website built using HTML, CSS, and JavaScript. This project
 
 ## Screenshots
 
-![Portfolio Website Screenshot](images/screenshot.png)
+### Screenshot-01
+![Portfolio Website Screenshot](images/portfolio-01.PNG)
+### Screenshot-02
+![Portfolio Website Screenshot](images/Portfolio-02.PNG)
+### Screenshot-03
+![Portfolio Website Screenshot](images/Portfolio-03.PNG)
+### Screenshot-04
+![Portfolio Website Screenshot](images/Portfolio-04.PNG)
+### Screenshot-05
+![Portfolio Website Screenshot](images/Portfolio-05.PNG)
+
 
 ## Technologies Used
 
